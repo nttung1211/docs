@@ -1,3 +1,3 @@
-# My-Document
+# My Document
 
 ## Hello world
